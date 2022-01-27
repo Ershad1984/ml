@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+
+}
+header{
+background: #87509c;
+
+}
+h1{
+color: white;
+}
